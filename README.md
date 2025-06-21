@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi, I'm Emily 👋
 
-<!--
-**hmphry/hmphry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End Engineer with 15+ years of experience building fast, accessible, and scalable web applications. I focus on clean architecture, performance, and maintainability—bridging the gap between design and engineering with clarity and care.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript, TypeScript, PHP, HTML, CSS, SASS
+- **Frameworks:** React, Vue, Node.js, Laravel, Express, Wordpress
+- **Styling:** Tailwind CSS, SCSS, Design Systems
+- **Tooling:** Git, Webpack, Vite, ESLint, Prettier
+
+## 🚀 What I Do
+
+- Build modern web apps that hold up in production
+- Architect scalable front-end systems with reusable components
+- Integrate with APIs and manage client-side state responsibly
+- Advocate for accessibility, performance, and clean design
+
+## 💬 Let's Connect
+
+I'm always learning and always building. If you're working on something interesting—or just want to talk shop—feel free to reach out.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/heyhmphry/)
+- 🌐 [Portfolio](https://hmphry.com)
+- 📫 Email: [emily@hmphry.com](mailto:emily@hmphry.com)
+
